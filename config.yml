@@ -1,0 +1,4 @@
+# 语言（ 可用选项: zh-cn | en ）
+language: zh-cn
+# 自动检查更新开关（ 可用选项: true | false ）
+auto-check-update: false
